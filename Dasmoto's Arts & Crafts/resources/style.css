@@ -1,0 +1,38 @@
+html {
+  font-family: Helvetica;
+}
+
+h1 {
+  background-image: url("C:/Users/gnomm/Desktop/Code Cademy Projects/Dasmoto's Arts & Crafts/images/pattern.jpeg");
+
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2.brushes {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+h2.frames {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+h2.paint {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
